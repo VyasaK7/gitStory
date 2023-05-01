@@ -1,1 +1,2 @@
-Sample Chapter 2 River Stream is flowng awesome.
+Sample Chapter 2. River Stream is flowing awesome.
+Made some corrections from private Branch.
