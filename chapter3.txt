@@ -1,1 +1,2 @@
-Chapter 3 yat! Lt's makje some typos so we can correct later.
+Chapter 3 yay! Let's make some typos so we can correct later.
+Corrected Typos. This is after reverting commit. Will commit again.
